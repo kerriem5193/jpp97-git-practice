@@ -1,7 +1,7 @@
 # Project Idea
 ## Project Name
-TBD
+Optimized Beamforming Technique
 ## Problem to Solve
 TBD
 ## Target User
-TBD
+Electrical Engineers in Wireless Communication
